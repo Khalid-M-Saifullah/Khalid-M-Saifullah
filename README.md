@@ -12,7 +12,8 @@ Hi, I'm Khalid Shifullah!
 
 <pre> <h4>
 	Motivated Software Engineer with 1.5 years of experience at BJIT Limited, specializing in Java, Spring Boot, and
-	microservices. Seeking a challenging role in a growth-oriented company that fosters continuous learning and innovation. Passionate about developing technical expertise and contributing to impactful projects, with a long-term goal
+	microservices. Seeking a challenging role in a growth-oriented company that fosters continuous learning and innovation.
+	Passionate about developing technical expertise and contributing to impactful projects, with a long-term goal
 	of advancing to a software architect position.
 </pre
 </h4>
