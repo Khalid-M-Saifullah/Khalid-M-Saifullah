@@ -11,10 +11,9 @@ Hi, I'm Khalid Shifullah!
 # 💻 About Me
 
 <pre> <h4>
-- I have recently graduated from Brac University after completing my BSc. in Computer Science and Engineering
-- Currently working as a Software Engineer at BJIT GROUP
-- Working experience with ML and NLP
-- Main languages: Java, Python, JavaScript
+	Motivated Software Engineer with 1.5 years of experience at BJIT Limited, specializing in Java, Spring Boot, and
+	microservices. Seeking a challenging role in a growth-oriented company that fosters continuous learning and innovation. Passionate about developing technical expertise and contributing to impactful projects, with a long-term goal
+	of advancing to a software architect position.
 </pre
 </h4>
 <hr>
@@ -103,25 +102,6 @@ Link:
 
 <hr>
 
-## 🥋 E-commerce Website
-
-### Description
-
-An e-commerce website built using HTML, CSS, and Bootstrap. The website is responsive and provides an easy-to-use interface for customers to browse products and make purchases.
-
-### Features
-
-- Browse products
-- Add products to cart
-- Make purchases
-
-### Technologies
-
-- HTML
-- CSS
-- Bootstrap
-
-<hr>
 
 # 📚 PUBLICATIONS
 
